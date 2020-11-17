@@ -7,7 +7,7 @@ Adds support for devices not included in Unity's new input system.
 1. In your Unity project, open the Package Manager: `Window -> Package Manager`
 2. Click the add `+` button in the top left
 3. Select `Add package from git URL` from the add menu
-4. Paste the Git URL into the text box: https://github.com/DeviantGhost0/CustomDevices
+4. Paste the Git URL into the text box: https://github.com/DeviantGhost0/CustomDevices.git
 5. Click `Add`
 
 If you have any issues, please refer to Unity's page on [installing from a Git URL](https://docs.unity3d.com/2019.4/Documentation/Manual/upm-ui-giturl.html).
